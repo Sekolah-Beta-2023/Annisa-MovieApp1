@@ -10,4 +10,4 @@ Backend     : The Movie Database API, Firebase.
 
 # Note
 
-MovieApp1 masih memiliki beberapa kekurangan yang perlu diperbaiki, seperti fitur login dan profil yang belum berfungsi sepenuhnya, serta fitur chat yang masih belum optimal. Saya sangat menghargai saran dan masukan dari teman - teman untuk meningkat kualita MovieApp1. Dukungan dan ide - ide kalian akan sangat berarti bagi pengembangan MovieApp1. Terima kasih!
+MovieApp1 masih memiliki beberapa kekurangan yang perlu diperbaiki, seperti fitur login dan profil yang belum berfungsi sepenuhnya, serta fitur chat yang masih belum optimal. Saya sangat menghargai saran dan masukan dari teman - teman untuk meningkatkan kualitas MovieApp1. Dukungan dan ide - ide kalian akan sangat berarti bagi pengembangan MovieApp1. Terima kasih!
